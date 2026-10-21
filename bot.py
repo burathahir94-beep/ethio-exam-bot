@@ -1,4 +1,4 @@
-   python-telegram-bot>=20.0
+
    
 import logging
 from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
